@@ -6,4 +6,4 @@ await addItem("📜 Pergaminho de Fogo");
 await addItem("⚔️ Espada de Luz");
 await addItem("🛡️ Escudo Mágico");
 readItens();
-removeItem("🛡️ Escudo Mágico");
+removeItem("🛡️ Escudo Mágico")
